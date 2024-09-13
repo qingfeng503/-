@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.nacos:nacos-client:2.2.1-RC">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/2.2.1-RC/nacos-client-2.2.1-RC.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/2.2.1-RC/nacos-client-2.2.1-RC-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/2.2.1-RC/nacos-client-2.2.1-RC-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

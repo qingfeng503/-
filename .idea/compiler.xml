@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qiyu-live-bank-interface" />
+        <module name="qiyu-live-bank-api" />
+        <module name="qiyu-live-living-interface" />
+        <module name="qiyu-live-gateway" />
+        <module name="qiyu-live-common-interface" />
+        <module name="qiyu-live-framework-redis-starter" />
+        <module name="qiyu-live-living-provider" />
+        <module name="qiyu-live-framework-web-starter" />
+        <module name="qiyu-live-im-router-interface" />
+        <module name="qiyu-live-gift-provider" />
+        <module name="qiyu-live-im-core-server-interface" />
+        <module name="qiyu-live-user-interface" />
+        <module name="qiyu-live-msg-provider" />
+        <module name="qiyu-live-api" />
+        <module name="qiyu-live-im-router-provider" />
+        <module name="qiyu-live-account-provider" />
+        <module name="qiyu-live-framework-datasource-starter" />
+        <module name="qiyu-live-bank-provider" />
+        <module name="qiyu-live-msg-interface" />
+        <module name="qiyu-live-im-provider" />
+        <module name="qiyu-live-im-interface" />
+        <module name="qiyu-live-user-provider" />
+        <module name="qiyu-live-im-core-server" />
+        <module name="qiyu-live-account-interface" />
+        <module name="qiyu-live-gift-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qiyu-live-account-interface" target="17" />
+      <module name="qiyu-live-account-provider" target="17" />
+      <module name="qiyu-live-api" target="17" />
+      <module name="qiyu-live-app" target="17" />
+      <module name="qiyu-live-bank-api" target="17" />
+      <module name="qiyu-live-bank-interface" target="14" />
+      <module name="qiyu-live-bank-provider" target="17" />
+      <module name="qiyu-live-common-interface" target="17" />
+      <module name="qiyu-live-framework" target="17" />
+      <module name="qiyu-live-framework-datasource-starter" target="17" />
+      <module name="qiyu-live-framework-redis-starter" target="17" />
+      <module name="qiyu-live-framework-web-starter" target="14" />
+      <module name="qiyu-live-gateway" target="17" />
+      <module name="qiyu-live-gift-interface" target="14" />
+      <module name="qiyu-live-gift-provider" target="17" />
+      <module name="qiyu-live-im-core-server" target="14" />
+      <module name="qiyu-live-im-core-server-interface" target="14" />
+      <module name="qiyu-live-im-interface" target="14" />
+      <module name="qiyu-live-im-provider" target="17" />
+      <module name="qiyu-live-im-router-interface" target="17" />
+      <module name="qiyu-live-im-router-provider" target="17" />
+      <module name="qiyu-live-living-interface" target="14" />
+      <module name="qiyu-live-living-provider" target="17" />
+      <module name="qiyu-live-msg-interface" target="14" />
+      <module name="qiyu-live-msg-provider" target="17" />
+      <module name="qiyu-live-user-interface" target="14" />
+      <module name="qiyu-live-user-provider" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="qiyu-live-account-interface" options="-parameters" />
+      <module name="qiyu-live-account-provider" options="-parameters" />
+      <module name="qiyu-live-api" options="-parameters" />
+      <module name="qiyu-live-bank-api" options="-parameters" />
+      <module name="qiyu-live-bank-interface" options="-parameters" />
+      <module name="qiyu-live-bank-provider" options="-parameters" />
+      <module name="qiyu-live-common-interface" options="-parameters" />
+      <module name="qiyu-live-framework-datasource-starter" options="-parameters" />
+      <module name="qiyu-live-framework-redis-starter" options="-parameters" />
+      <module name="qiyu-live-framework-web-starter" options="-parameters" />
+      <module name="qiyu-live-gateway" options="-parameters" />
+      <module name="qiyu-live-gift-interface" options="-parameters" />
+      <module name="qiyu-live-gift-provider" options="-parameters" />
+      <module name="qiyu-live-im-core-server" options="-parameters" />
+      <module name="qiyu-live-im-core-server-interface" options="-parameters" />
+      <module name="qiyu-live-im-interface" options="-parameters" />
+      <module name="qiyu-live-im-provider" options="-parameters" />
+      <module name="qiyu-live-im-router-interface" options="-parameters" />
+      <module name="qiyu-live-im-router-provider" options="-parameters" />
+      <module name="qiyu-live-living-interface" options="-parameters" />
+      <module name="qiyu-live-living-provider" options="-parameters" />
+      <module name="qiyu-live-msg-interface" options="-parameters" />
+      <module name="qiyu-live-msg-provider" options="-parameters" />
+      <module name="qiyu-live-user-interface" options="-parameters" />
+      <module name="qiyu-live-user-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

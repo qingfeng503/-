@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-account-interface/qiyu-live-account-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-account-interface/qiyu-live-account-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-account-provider/qiyu-live-account-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-account-provider/qiyu-live-account-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-api/qiyu-live-api.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-api/qiyu-live-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-app.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-bank-api/qiyu-live-bank-api.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-bank-api/qiyu-live-bank-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-bank-interface/qiyu-live-bank-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-bank-interface/qiyu-live-bank-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-bank-provider/qiyu-live-bank-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-bank-provider/qiyu-live-bank-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-common-interface/qiyu-live-common-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-common-interface/qiyu-live-common-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework-datasource-starter/qiyu-live-framework-datasource-starter.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework-datasource-starter/qiyu-live-framework-datasource-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework-redis-starter/qiyu-live-framework-redis-starter.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework-redis-starter/qiyu-live-framework-redis-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework-web-starter/qiyu-live-framework-web-starter.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-framework/qiyu-live-framework-web-starter/qiyu-live-framework-web-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-gateway/qiyu-live-gateway.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-gateway/qiyu-live-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-gift-interface/qiyu-live-gift-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-gift-interface/qiyu-live-gift-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-gift-provider/qiyu-live-gift-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-gift-provider/qiyu-live-gift-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-core-server/qiyu-live-im-core-server.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-core-server/qiyu-live-im-core-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-core-server-interface/qiyu-live-im-core-server-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-core-server-interface/qiyu-live-im-core-server-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-interface/qiyu-live-im-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-interface/qiyu-live-im-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-provider/qiyu-live-im-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-provider/qiyu-live-im-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-router-interface/qiyu-live-im-router-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-router-interface/qiyu-live-im-router-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-router-provider/qiyu-live-im-router-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-im-router-provider/qiyu-live-im-router-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-living-interface/qiyu-live-living-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-living-interface/qiyu-live-living-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-living-provider/qiyu-live-living-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-living-provider/qiyu-live-living-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qiyu-live-main.iml" filepath="$PROJECT_DIR$/.idea/qiyu-live-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-msg-interface/qiyu-live-msg-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-msg-interface/qiyu-live-msg-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-msg-provider/qiyu-live-msg-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-msg-provider/qiyu-live-msg-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-user-interface/qiyu-live-user-interface.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-user-interface/qiyu-live-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-user-provider/qiyu-live-user-provider.iml" filepath="$PROJECT_DIR$/后端代码/qiyu-live-app/qiyu-live-user-provider/qiyu-live-user-provider.iml" />
+    </modules>
+  </component>
+</project>
